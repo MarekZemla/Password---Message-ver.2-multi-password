@@ -21,13 +21,3 @@ e.target.classList.add('active');
 input.addEventListener('blur', (e) =>{
 e.target.classList.remove('active');
 });
-
-
-
-// if(password === e.target.value) {
-// div.textContent = message;
-// e.target.value = "";
-// }
-// else {
-//     div.textContent = "";
-// }
